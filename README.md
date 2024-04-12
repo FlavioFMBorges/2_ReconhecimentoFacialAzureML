@@ -3,11 +3,10 @@
 
 ##Reconhecimento Facial 
 
-Entrei no portal do Azure e em AI + Machine Learning - Azure Ai services criei um recurso, com esse recurso criado acessei o Vision Studio, e lá pude importar uma imagem que foi reconhecida mostrado através de um retângulo azul sobre a foto, mostrando que tinha reconhecido a face da pessoa na foto.
-Exemplos abaixo:
-Foto Angelina Jolie
-https://github.com/FlavioFMBorges/2_ReconhecimentoFacialAzureML/blob/main/output/Angelina_Jolie_0001_out01.jpg
-Foto Angelina Jolie com código .json
+Entrei no portal do Azure e em AI + Machine Learning - Azure Ai services criei um recurso, com esse recurso criado acessei o Vision Studio, e lá pude importar uma imagem que foi reconhecida mostrado através de um retângulo azul sobre a foto, mostrando que tinha reconhecido a face da pessoa na foto.  
+Exemplos abaixo:  
+[Foto Angelina Jolie](https://github.com/FlavioFMBorges/2_ReconhecimentoFacialAzureML/blob/main/output/Angelina_Jolie_0001_out01.jpg)
+Foto Angelina Jolie com código .json  
 https://github.com/FlavioFMBorges/2_ReconhecimentoFacialAzureML/blob/main/output/Angelina_Jolie_0001_out02.jpg
 
 # Reconhecimento de caracteres
