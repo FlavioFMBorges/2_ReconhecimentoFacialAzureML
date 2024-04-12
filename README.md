@@ -12,13 +12,13 @@ Exemplos abaixo:
 
 Agora na aba Optical character recognition fiz o teste com uma imagem de um estudo de Inglês e o aplicativo fez o reconhecimento das palavras como mostrado na imagem, junto com o código de .json.
 
-Foto texto01
-Foto texto02
+![Foto texto01](https://github.com/FlavioFMBorges/2_ReconhecimentoFacialAzureML/blob/main/output/Texto_01.jpg)  
+![Foto texto02](https://github.com/FlavioFMBorges/2_ReconhecimentoFacialAzureML/blob/main/output/Texto_02.jpg)  
 
 # Análise de imagens, adicionando legendas
 
 Nossa próxima aba é Image analysis, dentro dela a opção Add caption to images, que irá descrever a imagem.
 Abaixo vemos a descrição da imagem das crianças jogando com uma bola e também o seu código em .json.
 
-Foto crianças 1
-Foto crianças 2
+![Foto crianças 1](https://github.com/FlavioFMBorges/2_ReconhecimentoFacialAzureML/blob/main/output/crian%C3%A7as_brincando_1_out_1.jpg)  
+![Foto crianças 2](https://github.com/FlavioFMBorges/2_ReconhecimentoFacialAzureML/blob/main/output/crian%C3%A7as_brincando_1_out_2.jpg)  
